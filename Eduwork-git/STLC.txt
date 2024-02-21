@@ -1,0 +1,125 @@
+Pengertian
+Software testing adalah serangkaian aktivitas yang bertujuan untuk mengevaluasi apakah hasil aktual telah sesuai dengan hasil yang diharapkan serta memastikan bahwa program atau aplikasi yang dirancang tidak menghasilkan bug lagi.
+
+Software Testing Life Cycle adalah urutan kegiatan yang dilakukan untuk melakukan software testing.
+
+Tahapan
+ 
+
+Requirement Analysis
+Pada fase ini, test team mempelajari persyaratan dari sudut pandang pengujian untuk mengidentifikasi requirements yang akan diuji. Requirements dapat berupa fungsional atau non fungsional. Aktivitas – aktivitas yang dilakukan berupa mengidentifikasi jenis tes yang akan dilakukan, mengumpulkan detail mengenai prioritas testing hingga melakukan identifikasi lingkungan pengujian.
+
+Entry Criteria:
+
+Dokumen requirements
+Arsitektur aplikasi
+Acceptance criteria
+Activities:
+
+Menyiapkan pertanyaan untuk dijawab oleh stakeholder
+Mengidentifikasi tipe testing yang perlu dilakukan (Functional, Security, Performancedll)
+Menjabarkan fokus dan prioritas testing
+Menyiapkan RTM (Requirements Traceability Matrix)
+Mengidentifikasi detail environmentdi mana testing akan dilakukan
+Melakukan pengecekan kelayakan automasi jika dibutuhkan dan menyiapkan laporan kelayakan automasi
+Deliverables:
+
+Daftar pertanyaan dan jawaban yang sudah terjawab
+Dokumen RTM (Requirements Traceability Matrix)
+Laporan kelayakan automasi
+Test Planning
+Pada tahap ini, seorang manajer yang bertanggung jawab pada testing, akan menentukan perkiraan aktivitas dan biaya serta akan menyiapkan dan menyelesaikan test plan. Aktivitas yang dilakukan berupa persiapan test plan dan dokumen, pemilihan alat uji hingga perencanaan resources dan menentukan roles.
+
+Entry Criteria:
+
+Dokumen requirements
+Laporan Ketersediaan automasi
+Dokumen RTM (Requirements Traceability Matrix)
+Activities:
+
+Menguji perkiraan usaha dan perencanaan sumber daya
+Memilih alat pendukung testing jika ada
+Menentukan peran dan kewajiban masing-masing
+Menentukan kriteria input, output, suspension, resumption
+Kebutuhan pelatihan (jika dibutuhkan)
+Deliverables:
+
+Dokumen test plan atau test strategy
+Dokumen perkiraan usaha testing
+Test Case Development
+Fase ini melibatkan pembuatan, verifikasi dan pengerjaan ulang test cases dan test scripts. Test data diidentifikasi dan ditinjau lalu dikerjakan ulang. Aktivitas yang dilakukan meliputi, membuat test case, automation scripts (jika ada), melakukan review test case dan scripts.
+
+Entry Criteria:
+
+Dokumen requirements
+Laporan analisis automasi
+Dokumen RTM (Requirements Traceability Matrix) dan test plan
+Activities:
+
+Menyiapkan dokumentasi test case
+Menyiapkan script automation test
+Melakukan review test case dan script test
+Menyiapkan kembali data yang akan digunakan untuk testing
+Deliverables:
+
+Dokumen test cases
+Test script
+Test data yang akan digunakan
+Test Environment Setup
+Test environment adalah salah satu aspek penting dalam proses testing. Proses ini dapat dilakukan secara paralel dengan test case development stage. Tahap ini menentukan kondisi dari hardware dan software yang akan digunakan untuk melakukan testing.
+
+Entry Criteria:
+
+Test plan dan test data
+Smoke test cases
+Dokumen desain dan arsitektur sistem
+Dokumen penyiapan environment
+Activities:
+
+Menganalisa perangkat lunak dan perangkat keras yang dibutuhkan
+Menyiapkan test environment
+Melakukan smoke testing
+Deliverables:
+
+Hasil dari smoke testing
+Environment siap untuk diinputkan dengan test data
+Test Execution
+Selama fase ini, testers akan melakukan pengujian berdasarkan test plans dan test case yang telah disiapkan sebelumnya. Apabila ditemukan bug, bug akan dilaporkan kepada tim developers. Aktivitas yang dilakukan pada fase ini meliputi, execute test sesuai dengan test plan, melakukan dokumentasi hasil tes dan melaporkan bug apabila ditemukan.
+
+Entry Criteria:
+
+Dokumen test plan atau test strategy
+Test script
+Test case dan test data
+Test environment siap digunakan
+Activities:
+
+Mengeksekusi test case sesuai test planning yang sudah dibuat sebelumnya
+Melakukan dokumentasi dan memberikan tanda pada cases yang berhasil dan gagal
+Menugaskan perbaikan defect kepada programmer
+Melakukan testing ulang untuk defect yang sudah diperbaiki
+Melacak defect untuk dapat ditutup
+Deliverables:
+
+Defect report
+Test cases yang sudah diperbarui dengan hasil test-nya
+Melengkapi dokumen RTM dengan status eksekusi
+Test Cycle Closure
+Testing team akan melakukan pertemuan untuk membahas dan menganalisis hasil testing untuk mengidentifikasi strategi atau langkah yang harus diambil untuk diterapkan kedepannya dengan mengambil pelajaran dari hasil siklus testing pada periode tersebut. Aktivitas yang dilakukan meliputi melakukan, menyiapkan test metrics, melakukan dokumentasi serta mempersiapkan laporan.
+
+Entry Criteria:
+
+Semua test case sudah selesai dieksekusi
+Laporan eksekusi test case
+Laporan defect
+Activities:
+
+Mengevaluasi penyelesaian siklus berdasarkan waktu, test scope, biaya, perangkat lunak, kualitas, dan kepentingan tujuan bisnis.
+Menyiapkan laporan test closure dan metrik pengujian
+Dokumentasi lesson learndari proyek tersebut
+Laporan kualitatif dan kuantitatif kualitas produk kepada konsumen
+Analisa hasil testing untuk mendistirbusikan defect berdasarkan prioritydan severity
+Deliverables:
+
+Laporan test closure
+Metriks pengujian

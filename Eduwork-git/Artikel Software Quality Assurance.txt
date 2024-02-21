@@ -1,0 +1,36 @@
+SQA Introduction  
+ 
+Definisi
+*Quality Assurance* (QA) **adalah proses sistematis yang menentukan apakah suatu produk atau layanan memenuhi kriteria atau tidak. QA bertugas untuk melakukan pengawalan terhadap produk agar memiliki kualitas yang baik.
+
+**Kenapa kualitas itu penting pada sebuah produk?**
+
+Terntunya kualitas sangat berpengaruh terhadap tingkat kepercayaan *user*, tingkat kredibilitas perusahaan, dan kemampuan dalam bersaing dengan kompetitor.
+
+Tanggungjawab utama QA adalah untuk mencegah cacat terjadi dalam sebuah produk. Hal tersebut dapat mengurangi pengerjaan ulang jika terjadi cacat yang muncul di tengah pengembangan sehingga proses pengerjaan lebih efisien dan menghindari keluhan dari *user*.
+
+Tugas
+Tugas dari QA adalah sebagai berikut:
+
+1. Membuat *test plan* dan *test case* yang terstruktur untuk melakukan proses pengujian fitur.
+2. Melakukan dokumentasi aktivitas pengujian.
+3. Memastikan produk yang dikembangkan sesuai dengan kebutuhan *user*.
+4. Memberikan rekomendasi perbaikan terhadap produk jika terdapat cacat yang muncul.
+5. Melakukan dokumentasi pengelolaan cacat.
+6. Berkolaborasi dengan *developer* dan *product team* untuk melakukan penjagaan kualitas.
+
+Skill yang dibutuhkan
+Skill yang dibutuhkan seorang QA adalah sebagai berikut:
+
+1. Critical Thinking
+2. Detail Oriented
+3. Analytical Thinking
+4. Problem Solving
+5. Komunikasi
+6. Teamwork
+7. Project Management
+
+Quality Assurance vs Quality Control
+Quality Assurance (QA) dan Quality Control (QC) memiliki tugas dengan tujuan yang sama yaitu meningkatkan kualitas dari sebuah produk atau layanan. 
+
+Perbedaannya adalah QA memiliki fokus untuk **mencegah cacat** (tindakan preventif) dan QC memiliki fokus untuk mengidentifikasi dan menemukan cacat (tindakan reaktif). Sehingga, ranah kerja QA adalah mengawasi *end-to-end* proses dalam pengembangan produk dan terlibat dari awal hingga akhir proses pengembangan. Sedangkan, QC hanya terlibat di proses akhir pengembangan produk atau layanan.
