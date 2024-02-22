@@ -1,4 +1,5 @@
 SQA Introduction  
+SAYA BELAJAR GIT
  
 Definisi
 *Quality Assurance* (QA) **adalah proses sistematis yang menentukan apakah suatu produk atau layanan memenuhi kriteria atau tidak. QA bertugas untuk melakukan pengawalan terhadap produk agar memiliki kualitas yang baik.
